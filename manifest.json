@@ -1,0 +1,12 @@
+{
+    "name": "Distraction_bodied",
+    "manifest_version" : 3,
+    "version": "1.0",
+    "description": "dont be distracted",
+    "chrome_url_overrides": {
+        "newtab": "my.html"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
